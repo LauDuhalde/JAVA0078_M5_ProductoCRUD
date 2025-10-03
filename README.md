@@ -46,7 +46,7 @@ JAVA0078_M5_ProductoCRUD/
 - **Apache Tomcat 10+**
 - **Eclipse/STS** o cualquier IDE compatible con proyectos Dynamic Web
 - JSTL (Jakarta Standard Tag Library)
-- Postgres JDBC
+- Postgres y su JDBC
 
 ---
 
